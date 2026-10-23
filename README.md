@@ -144,3 +144,5 @@ Based on the investigation, I identified several defensive measures:
 ## Disclaimer
 
 This project was conducted for educational and cybersecurity training purposes using a provided traffic analysis exercise. All analysis was performed on the supplied packet capture. The findings should be interpreted within the context of the exercise.
+
+Watch the full demonstration here: https://youtu.be/Nwn4syaL8bQ
