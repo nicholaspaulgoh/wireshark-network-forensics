@@ -19,9 +19,9 @@ This project helped me develop practical skills in network forensics, packet ana
 
 ## Tools and Technologies
 
-- **Wireshark** — Network packet capture analysis and protocol inspection.
-- **Kali Linux** — Operating system used for the investigation.
-- **PCAP** — Packet capture file containing the network traffic under investigation.
+- **Wireshark**: Network packet capture analysis and protocol inspection.
+- **Kali Linux**: Operating system used for the investigation.
+- **PCAP**: Packet capture file containing the network traffic under investigation.
 
 ## Investigation Scenario
 
